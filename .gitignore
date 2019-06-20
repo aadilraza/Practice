@@ -1,2 +1,5 @@
-# Google App Engine generated folder
-appengine-generated/
+/packages/
+/.vs/
+/.git/
+/Testing/bin/
+/Testing/obj/
